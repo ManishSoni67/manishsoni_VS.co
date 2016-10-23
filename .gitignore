@@ -42,9 +42,13 @@ dlldata.c
 
 # DNX
 project.lock.json
+<<<<<<< HEAD
 project.fragment.lock.json
 artifacts/
 Properties/launchSettings.json
+=======
+artifacts/
+>>>>>>> a4bd5f3e2182dc4ba3dbfe46232cb780ec0503a8
 
 *_i.c
 *_p.c
@@ -111,10 +115,13 @@ _TeamCity*
 # DotCover is a Code Coverage Tool
 *.dotCover
 
+<<<<<<< HEAD
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
 
+=======
+>>>>>>> a4bd5f3e2182dc4ba3dbfe46232cb780ec0503a8
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
@@ -194,7 +201,10 @@ ClientBin/
 *~
 *.dbmdl
 *.dbproj.schemaview
+<<<<<<< HEAD
 *.jfm
+=======
+>>>>>>> a4bd5f3e2182dc4ba3dbfe46232cb780ec0503a8
 *.pfx
 *.publishsettings
 node_modules/
@@ -239,9 +249,12 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
+<<<<<<< HEAD
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
 
+=======
+>>>>>>> a4bd5f3e2182dc4ba3dbfe46232cb780ec0503a8
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
 **/*.DesktopClient/GeneratedArtifacts
@@ -260,6 +273,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+<<<<<<< HEAD
 
 # CodeRush
 .cr/
@@ -270,3 +284,5 @@ __pycache__/
 
 # Cake - Uncomment if you are using it
 # tools/
+=======
+>>>>>>> a4bd5f3e2182dc4ba3dbfe46232cb780ec0503a8
